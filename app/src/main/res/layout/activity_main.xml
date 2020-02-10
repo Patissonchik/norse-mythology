@@ -13,5 +13,9 @@
         android:scaleType="centerCrop"
         android:contentDescription="@string/main_logo"
         android:src="@drawable/main" />
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
