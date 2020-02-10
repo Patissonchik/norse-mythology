@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Norse Mythology</string>
+    <string name="main_logo">Скандинавская мифология</string>
+
+    <string-array name="options">
+        <item>Боги</item>
+        <item>Мифы</item>
+        <item>Something else</item>
+    </string-array>
 </resources>
